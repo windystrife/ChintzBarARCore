@@ -1,0 +1,16 @@
+{
+	"typescript.tsc.autoDetect": "off",
+	"files.exclude": {
+		"/Volumes/Mac_Win/ChintzBarAR copy/.vs": true,
+		"/Volumes/Mac_Win/ChintzBarAR copy/.vscode": true,
+		"/Volumes/Mac_Win/ChintzBarAR copy/ChintzBarAR.xcworkspace": true,
+		"/Volumes/Mac_Win/ChintzBarAR copy/Content": true,
+		"/Volumes/Mac_Win/ChintzBarAR copy/Icon": true,
+		"/Volumes/Mac_Win/ChintzBarAR copy/Icon copy": true,
+		"/Volumes/Mac_Win/ChintzBarAR copy/Icon copy 2": true,
+		"/Volumes/Mac_Win/ChintzBarAR copy/Intermediate": true,
+		"/Volumes/Mac_Win/ChintzBarAR copy/Package": true,
+		"/Volumes/Mac_Win/ChintzBarAR copy/Saved": true,
+		"/Volumes/Mac_Win/ChintzBarAR copy/SplashScreen": true
+	}
+}
