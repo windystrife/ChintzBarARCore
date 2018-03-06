@@ -16,7 +16,7 @@ class UObject;
 #endif
 #define VARESTPLUGIN_VaRestJsonValue_generated_h
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_RPC_WRAPPERS \
+#define ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execAsObject) \
 	{ \
@@ -133,7 +133,7 @@ class UObject;
 	}
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_RPC_WRAPPERS_NO_PURE_DECLS \
+#define ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execAsObject) \
 	{ \
@@ -250,7 +250,7 @@ class UObject;
 	}
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_INCLASS_NO_PURE_DECLS \
+#define ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUVaRestJsonValue(); \
 	friend VARESTPLUGIN_API class UClass* Z_Construct_UClass_UVaRestJsonValue(); \
@@ -260,7 +260,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_INCLASS \
+#define ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_INCLASS \
 private: \
 	static void StaticRegisterNativesUVaRestJsonValue(); \
 	friend VARESTPLUGIN_API class UClass* Z_Construct_UClass_UVaRestJsonValue(); \
@@ -270,7 +270,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_STANDARD_CONSTRUCTORS \
+#define ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVaRestJsonValue(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVaRestJsonValue) \
@@ -283,7 +283,7 @@ private: \
 public:
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_ENHANCED_CONSTRUCTORS \
+#define ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVaRestJsonValue(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -296,32 +296,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVaRestJsonValue); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVaRestJsonValue)
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_PRIVATE_PROPERTY_OFFSET
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_32_PROLOG
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_GENERATED_BODY_LEGACY \
+#define ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_PRIVATE_PROPERTY_OFFSET
+#define ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_32_PROLOG
+#define ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_PRIVATE_PROPERTY_OFFSET \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_RPC_WRAPPERS \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_INCLASS \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_STANDARD_CONSTRUCTORS \
+	ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_PRIVATE_PROPERTY_OFFSET \
+	ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_RPC_WRAPPERS \
+	ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_INCLASS \
+	ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_GENERATED_BODY \
+#define ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_PRIVATE_PROPERTY_OFFSET \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_RPC_WRAPPERS_NO_PURE_DECLS \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_INCLASS_NO_PURE_DECLS \
-	ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_ENHANCED_CONSTRUCTORS \
+	ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_PRIVATE_PROPERTY_OFFSET \
+	ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_RPC_WRAPPERS_NO_PURE_DECLS \
+	ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_INCLASS_NO_PURE_DECLS \
+	ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h_35_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class VaRestJsonValue."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID ChintzBarAR_copy_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h
+#define CURRENT_FILE_ID ChintzBarARCore_Plugins_VaRestPlugin_Source_VaRestPlugin_Classes_VaRestJsonValue_h
 
 
 #define FOREACH_ENUM_EVAJSON(op) \

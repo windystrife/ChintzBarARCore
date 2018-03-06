@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-VaRestEditorPlugin.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"F:\_UE4_SourceBuild\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
-"J:\ChintzBarAR copy\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Module.VaRestEditorPlugin.cpp.obj"
-"J:\ChintzBarAR copy\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Module.VaRestEditorPlugin.gen.cpp.obj"
-"F:\_UE4_SourceBuild\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\PCLaunch.rc.res"
-"F:\_UE4_SourceBuild\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
-/OUT:"J:\ChintzBarAR copy\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VaRestEditorPlugin.lib"
+"G:\_UE4_SourceBuild\UnrealEngine-4.18-arcore1.0\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"J:\_ProjectGit\ChintzBarAR\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Module.VaRestEditorPlugin.cpp.obj"
+"J:\_ProjectGit\ChintzBarAR\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\VaRestEditorPlugin\Module.VaRestEditorPlugin.gen.cpp.obj"
+"G:\_UE4_SourceBuild\UnrealEngine-4.18-arcore1.0\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+"G:\_UE4_SourceBuild\UnrealEngine-4.18-arcore1.0\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"J:\_ProjectGit\ChintzBarAR\Plugins\VaRestPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VaRestEditorPlugin.lib"

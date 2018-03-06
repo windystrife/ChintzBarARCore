@@ -35,7 +35,7 @@ FString UScreenShotFunction::GetPathNormalScreenShoot()
 
 FString UScreenShotFunction::EngineVersionAgnosticUserDir()
 {
-	return FPaths::EngineVersionAgnosticUserDir();	
+	return FPaths::EngineVersionAgnosticUserDir();
 }
 
 

@@ -7,8 +7,8 @@
 #include "ScreenShotFunction.generated.h"
 
 /**
- * 
- */
+*
+*/
 
 UENUM(BlueprintType)
 enum class EJoyImageFormats : uint8
@@ -26,26 +26,26 @@ UCLASS()
 class CHINTZBARAR_API UScreenShotFunction : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
-	UFUNCTION(BlueprintPure, Category = "Take Screenshot|Load Texture From File", meta = (Keywords = "image png jpg jpeg bmp bitmap ico icon exr icns"))
+		UFUNCTION(BlueprintPure, Category = "Take Screenshot|Load Texture From File", meta = (Keywords = "image png jpg jpeg bmp bitmap ico icon exr icns"))
 		static UTexture2D* Tung_LoadTexture2D_FromFile(const FString& FullFilePath, EJoyImageFormats ImageFormat, bool& IsValid, int32& Width, int32& Height);
 
-		UFUNCTION(BlueprintPure, Category = "Take Screenshot|File IO")
+	UFUNCTION(BlueprintPure, Category = "Take Screenshot|File IO")
 		static bool TungFileIO_GetFiles(TArray<FString>& Files, FString RootFolderFullPath, FString Ext);
 
-		UFUNCTION(BlueprintPure, Category = "Take Screenshot|Paths")
+	UFUNCTION(BlueprintPure, Category = "Take Screenshot|Paths")
 		static FString ScreenShotsDir();
 
-		UFUNCTION(BlueprintCallable, Category = "Take Screenshot|One Shot")
+	UFUNCTION(BlueprintCallable, Category = "Take Screenshot|One Shot")
 		FString TakeScreenshot(FString filename);
 
-		UFUNCTION(BlueprintPure, Category = "Custom")
+	UFUNCTION(BlueprintPure, Category = "Custom")
 		static FString GetPathGoldFishScreenShoot();
 
-		UFUNCTION(BlueprintPure, Category = "Custom")
+	UFUNCTION(BlueprintPure, Category = "Custom")
 		static FString GetPathNormalScreenShoot();
 
-		UFUNCTION(BlueprintPure, Category = "Custom")
+	UFUNCTION(BlueprintPure, Category = "Custom")
 		static FString EngineVersionAgnosticUserDir();
-	
-	
+
+
 };
