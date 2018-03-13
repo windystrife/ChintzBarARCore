@@ -1,7 +1,7 @@
 ### ChintzBarARCore
 
-The Chintz Bar App Use ARCore to Develop App with a photography & portal function for The Chintz Bar (Falmouth, England)
-Link AppStore: 
+The Chintz Bar App Use ARCore to Develop App with a photography, Geolocation & portal function for The Chintz Bar (Falmouth, England)
+Link Google Store: 
 https://play.google.com/store/apps/details?id=com.Chintz.TheChintzBar
 
 ![Alt text](PreviewImage/1.jpg?raw=true "Preview1")
